@@ -1,6 +1,8 @@
 # Bolt-Website-Global_Warming_2025
 ## https://extraordinary-valkyrie-1327c0.netlify.app/1
 
+### Prompt Used: "Create a Global Warming 2025 presentation with 8 slides"
+
 
 # Welcome to [Slidev](https://github.com/slidevjs/slidev)!
 
