@@ -1,6 +1,17 @@
 # Bolt-Website-Global_Warming_2025
+## https://extraordinary-valkyrie-1327c0.netlify.app/1
 
 
-# https://extraordinary-valkyrie-1327c0.netlify.app/1
+# Welcome to [Slidev](https://github.com/slidevjs/slidev)!
 
+[Edit on StackBlitz ⚡️](https://sli.dev/new)
 
+To start the slide show:
+
+- `npm install`
+- `npm run dev`
+- visit http://localhost:3030
+
+Edit the [slides.md](./slides.md) to see the changes.
+
+Learn more about Slidev on [documentations](https://sli.dev/).
